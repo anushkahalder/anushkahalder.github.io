@@ -1,0 +1,163 @@
+body{
+	background-image: url('b2.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#profile{
+	margin:auto;
+	padding-top:200px;
+	text-align: center;
+}
+#profile h1{
+	font-size: 70px;
+	font-family: 'Pacifico', cursive;
+	color: #4d0000;
+	text-shadow: 1px 1px 1px;
+	text-align: center;
+}
+#profile h3{
+	font-family: 'Raleway', sans-serif;
+	padding: 0px;
+	text-align: center;
+	color: #b30000;
+
+
+}
+section{
+	float: left;
+	width: 50%;
+	padding-top: 50px;
+	
+}
+
+.section1{
+	text-align:left;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	margin-right: 10px;
+	color: black;
+	
+
+}
+h2{
+    color: black;
+	margin: auto;
+	text-decoration: underline;
+	padding-top: 200PX;
+	padding-bottom: 60PX;
+	text-align: center;
+}
+h4{
+color: black;
+font-family:'Raleway', sans-serif;
+text-align: left; 
+}
+h4::first-letter {
+  font-size: 200%;
+  color: black;
+}
+
+
+#about{
+	padding-top: 200px;
+	padding-bottom: 100px;
+	margin: auto;
+}
+.mid{
+	padding-left: 20px;
+}
+
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-size:0.1rem;
+  font-weight: 400;
+  color: black;
+  margin:0px;
+}
+
+.html {width: 90%; background-color: #4d0019;}
+.css {width: 80%; background-color:#4d0019;}
+.js {width: 65%; background-color: #4d0019;}
+.iot {width: 50%; background-color: #4d0019;}
+.robo{width: 70%; background-color: #4d0019;}
+.py{width: 30%; background-color: #4d0019;}
+
+p{
+	text-align: left;
+	text-shadow: 1px 1px 1px;
+	text-transform: uppercase;
+	color: black;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+.edu{
+	color: black;
+	font-style: bold;
+	font-size: 20px;
+}
+.con{
+	text-align: center;
+	color: black;
+	font-style: bold;
+	font-size: 20px;
+	padding-bottom: 100px;
+}
+.read{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	font-size: 20px;
+}
+.read::first-letter {
+  font-size: 200%;
+  color: black;
+}
+footer{
+	clear: both;
+	margin-bottom: 100px;
+	font-size: 50px;
+	font-family: 'Pacifico', cursive;
+	color: #001a00;
+	text-shadow: 1px 1px 1px;
+	text-align: center;
+	}
+
+.pic img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	height: 30%
+}
+#about img{
+	width: 60%;
+	float: right;
+	margin: auto;
+	height: 90%;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	padding: 10px;
+
+
+}
+#hov li:hover{
+	background: #ffe6f0;
+	font-weight: bolder;
+	color: black;
+
+}
+.space{
+	padding-top: 200px;
+}
